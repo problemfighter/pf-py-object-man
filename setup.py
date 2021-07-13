@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='pf-py-object-man',
-    version='1.0',
+    version='1.1',
     url='https://github.com/problemfighter/pf-py-object-man',
     license='Apache 2.0',
     author='Touhid Mia',
